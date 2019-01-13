@@ -1,4 +1,4 @@
-Name of QuantLet : DEDA_HClustering_quantlets
+Name of QuantLet : DEDA_HClustering_quantlet
 
 Description : 'Hierarchical clustering on qunatlets'
 
