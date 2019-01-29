@@ -1,5 +1,7 @@
 Name of QuantLet : DEDA_HClustering_quantlet
 
+Published in : SFM class
+
 Description : 'Hierarchical clustering on qunatlets'
 
 Keywords : Quantlets, hierarchical, k-means, cluster analysis
