@@ -6,7 +6,7 @@
 
 Name of QuantLet : DEDA_HClustering_quantlet
 
-Published in : SFM class
+Published in : DEDA class
 
 Description : 'Hierarchical clustering on qunatlets'
 
